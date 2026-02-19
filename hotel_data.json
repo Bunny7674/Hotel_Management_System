@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Bunny",
+        "phone": "7674932719",
+        "room_type": "Deluxe",
+        "days": 6,
+        "bill": 18000,
+        "status": "Checked-in"
+    }
+]
